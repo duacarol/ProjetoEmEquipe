@@ -1,5 +1,5 @@
 # ProjetoEmEquipe
-Projeto em equipe desenvolvido durante as aulas de Projeto de Interface Web do curso técnico em Informática para Internet do SENAI. A atividade envolveu o desenvolvimento de aplicações em C# e .NET e a gestão de repositórios no GitHub.
+Projeto em equipe desenvolvido durante as aulas de Projeto de Interface Web do curso técnico em Informática para Internet do [SENAI-MG](https://www.fiemg.com.br/senai/). A atividade envolveu o desenvolvimento de aplicações em C# e .NET e a gestão de repositórios no GitHub.
 
 ## 1. Calculadora Simples
 Desenvolvido por: Guilherme Mauricio de Oliveira Damasceno [(@skazzi47)](https://github.com/skazzi47)
@@ -103,7 +103,7 @@ Este conversor de temperatura é uma ferramenta útil para realizar conversões 
 ## 5. Simulador de Lançamento de Dados
 Desenvolvido por: Carol Duarte [(@duacarol)](https://github.com/duacarol)
 
-Descrição: Simular o lançamento de um dado de 6 faces e exiba o resultado aleatório. Oferecer ao usuário a opção de lançar o dado várias vezes.
+Descrição: Simular o lançamento de um dado de 6 faces e exibir o resultado aleatório. Oferecer ao usuário a opção de lançar o dado várias vezes.
 
 ### O que foi utilizado
 Biblioteca `System`, laços de repetição e controle de fluxo.
@@ -161,7 +161,7 @@ Biblioteca `System`, classe `List<T>`, geração de números aleatórios com `Ra
 - [x] Loop para permitir que o usuário faça novas escolhas, com validação para respostas e opção para encerrar a aplicação.
 
 ### Backlog
-- [ ] Adicionar opções de filtro por tipo de prato (vegano, picante etc.) e por faixa de preço.
+- [ ] Adicionar opções de filtro por tipo de prato (vegano, picante, etc.) e por faixa de preço.
 - [ ] Permitir ao usuário adicionar seus próprios restaurantes e pratos.
 - [ ] Criar um sistema de classificação de pratos e restaurantes.
 
